@@ -9,5 +9,17 @@
 # 📌 SinWaveFusion
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001398?via%3Dihub)
 
-**[Image and Vision Computing 2025] Official pytorch implementation of the paper:**  
-_"SinWaveFusion: Learning a single image diffusion model in wavelet domain"_
+**[Image and Vision Computing 2025] Official pytorch implementation of the paper:** _"SinWaveFusion: Learning a single image diffusion model in wavelet domain"_
+
+
+## 📑 Citation
+If you use this code for your research, please cite our paper:
+```bibtex
+@article{kim2025sinwavefusion,
+  title={SinWaveFusion: Learning a single image diffusion model in wavelet domain},
+  author={Kim, Jisoo and Kang, Jiwoo and Kim, Taewan and Oh, Heeseok},
+  journal={Image and Vision Computing},
+  pages={105551},
+  year={2025},
+  publisher={Elsevier}
+}
