@@ -7,7 +7,6 @@
 
 
 # 📌 SinWaveFusion
----
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625001398?via%3Dihub)
 
 **[Image and Vision Computing 2025] Official pytorch implementation of the paper:**  
